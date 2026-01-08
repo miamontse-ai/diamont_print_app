@@ -1,5 +1,5 @@
-name: diamond_app
-description: App Diamond Print Studio con buscador DMC.
+name: diamont_print_app
+description: Buscador DMC Diamond Print
 publish_to: 'none'
 
 environment:
@@ -12,5 +12,5 @@ dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/Pantalla_Logo.jpg
-    - assets/dmc.csv
+    - assets/Logotipo de Pantalla.jpg
+    - assets/DMC.csv
